@@ -15,4 +15,4 @@ class ArticleModel extends BaseSQLModel {
   }
 }
 
-module.exports = ArticleModel();
+module.exports = ArticleModel;
